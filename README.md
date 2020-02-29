@@ -10,7 +10,7 @@ Clone the project.
 git clone https://github.com/HuangChenChia/chat-room.git
 ```
 
-## Usage
+## Instructions
 
 Server:
 * Set up IP address and port in [`Login`](CatClient/src/cat/login/CatLogin.java#L126). 
