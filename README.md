@@ -14,7 +14,7 @@ git clone https://github.com/HuangChenChia/chat-room.git
 
 Server:
 * Set up IP address and port in [`Login`](CatClient/src/cat/login/CatLogin.java#L126). 
-* Run the [`Server`](CatServer\src\cat\server\CatServer).
+* Run the [`Server`](CatServer/src/cat/server/CatServer.java).
 
 Client:
 * Run the [`Login`](CatClient/src/cat/login/CatLogin.java).
